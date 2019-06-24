@@ -1,0 +1,46 @@
+[{
+        "County": "DUBLIN                          ",
+        "Local Authority": "SOUTH DUBLIN COUNTY COUNCIL",
+        "District": "TALLAGHT WEST",
+        "CAV Details": "CAR SPACES (NO. OF)",
+        "Area(m2)": 17,
+        "X": -6.368943,
+        "Y": 53.285927
+    },
+    {
+        "County": "DUBLIN                          ",
+        "Local Authority": "SOUTH DUBLIN COUNTY COUNCIL",
+        "District": "TALLAGHT WEST",
+        "CAV Details": "CAR SPACES (NO. OF)",
+        "Area(m2)": 5,
+        "X": -6.370578,
+        "Y": 53.288776
+    },
+    {
+        "County": "DUBLIN                          ",
+        "Local Authority": "SOUTH DUBLIN COUNTY COUNCIL",
+        "District": "TALLAGHT WEST",
+        "CAV Details": "CAR SPACES (NO. OF)",
+        "Area(m2)": 6,
+        "X": -6.426846,
+        "Y": 53.292909
+    },
+    {
+        "County": "DUBLIN                          ",
+        "Local Authority": "SOUTH DUBLIN COUNTY COUNCIL",
+        "District": "TEMPLEOGUE",
+        "CAV Details": "CAR SPACES (NO. OF)",
+        "Area(m2)": 480,
+        "X": -6.318214,
+        "Y": 53.315754
+    },
+    {
+        "County": "DUBLIN                          ",
+        "Local Authority": "SOUTH DUBLIN COUNTY COUNCIL",
+        "District": "TEMPLEOGUE",
+        "CAV Details": "CAR SPACES (NO. OF)",
+        "Area(m2)": 2,
+        "X": -6.301849,
+        "Y": 53.298694
+    }
+]
