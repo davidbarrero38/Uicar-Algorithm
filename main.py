@@ -53,7 +53,7 @@ def comparedistante( lat1, lon1, lat2, lon2):
     print("Should be:", distance, "km")
 
     if distance == 0:
-        print('Same fucking place')
+        print('Same  place')
         # family or friends
     
     elif distance <= 1:
